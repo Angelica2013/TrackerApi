@@ -1,10 +1,6 @@
 import { Link } from 'react-router-dom'
 import { Menu } from '../common/Navbar';
-import GlobalStyle from '../../styled/GlobalStyles';
-
-
-
-
+import Logo from '../../assets/images/logo.png'
 
 
 const Layout = ({ children }) => {
@@ -17,7 +13,7 @@ const Layout = ({ children }) => {
             <Menu>
 
                 <ul><div>
-                    <img src="https://covimap.dexignzone.com/xhtml/images/logo.png" alt="" />
+                    <img src={Logo} alt="" />
                     </div>
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/pagina2">Prevention</Link></li>

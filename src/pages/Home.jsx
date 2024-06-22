@@ -1,14 +1,15 @@
 import styled from "styled-components";
+import GlobalStyle from "../styled/GlobalStyles";
 import Componente1 from "../components/component1/compo";
 import Componente2 from "../components/componente2/Componente2";
+import Phones from '../assets/images/phones.png'
+import Marcas from "../components/componente3/componente3";
 
 
-
-const urlPhone = "https://covimap.dexignzone.com/xhtml/images/phones.png"
 const Home = () => {
     return (
         <>
-
+            <GlobalStyle/>
             <ContainerHome1>
                 
 
@@ -18,9 +19,8 @@ const Home = () => {
                     nomButton="HOW TO PROJECT"
                 />
                 <Componente2 
-                phones1 = {urlPhone}
+                phones1 = {Phones}
                 />
-
             </ContainerHome1>
 
 
@@ -30,7 +30,7 @@ const Home = () => {
                 <h1>Basic Feature You Will Get When You Use</h1>
 
             </ContainerHome2>
-
+            <Marcas/>
         </>
     );
 }
