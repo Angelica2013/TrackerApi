@@ -1,13 +1,16 @@
-import { DivMarcas,Img } from "./componente3";
-import Times from '../../assets/images/b-2.png';
-import Cean from '../../assets/images/b-3.png';
+import { Comp3 } from "./comp3";
 
 
-const Marcas = () =>{
-    return(
-        <DivMarcas>
-            <Img src={Times}/>
-            <Img src={Cean}/>
-        </DivMarcas>
-    )
+const Componente3 = ({url, titulo2, parrafo}) => {
+    return (
+        <>
+        <Comp3>
+            <img src={url} alt="" />
+            <h2>{titulo2}</h2>
+            <p>{parrafo}</p>
+        </Comp3>
+        </>
+    );
 }
+
+export default Componente3;

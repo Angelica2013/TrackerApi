@@ -1,0 +1,137 @@
+{
+    "home": [
+        {
+            "component": 1,
+                "elements": [
+                {
+                    "title1": "Download the covid app for get latest update",
+                    "paragraph1": "Human coronaviruses are common and are typically associated with mild illnesses, similar to the common cold.The corona virus COVID-19 is affecting 210 countries & territories around the world and 2 international conveyances.",
+                    "boton1": "HOW TO PROTECT"
+                },
+                {
+                    "title2": "Stay Home, And Prayer For Victim",
+                    "paragraph2": "Human coronaviruses are common and are typically associated with mild illnesses, similar to the common cold.Shortness of breath can be a third -- and very serious -- manifestation of Covid-19, and it can occur on its own, without a cough.",
+                    "boton2": "DOWNLOAD NOW"
+                },
+                {
+                    "title3": "Get the simple app for latest news",
+                    "paragraph3": "Human coronaviruses are common and are typically associated with mild illnesses, similar to the common cold.",
+                    "boton3": "DOWNLOAD NOW"
+                }
+            ]
+        },
+        {
+            "component": 2,
+                "elements": [
+                {
+                    "image1": "URL-to-image-2.1"
+                },
+                {
+                    "image2": "URL-to-image-2.2"
+                },
+                {
+                    "image3": "URL-to-image-2.3"
+                }
+            ]
+        },
+        {
+            "component": 3,
+                "elements": [
+                {
+                    "title1": "Difficulty Breathing",
+                    "paragraph1": "Shortness of breath can be a third -- and very serious -- manifestation of Covid-19, and it can occur on its own, without a cough. ",
+                    "image1": "URL-to-image-3.1"
+                },
+                {
+                    "title2": "Cough",
+                    "image2": "URL-to-image-3.2",
+                    "paragraph2": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest."
+                },
+                {
+                    "title3": "Title 3.3",
+                    "paragraph3": "Paragraph 3.3",
+                    "image3": "URL-to-image-3.3"
+                },
+                {
+                    "title4": "Title 3.4",
+                    "paragraph4": "Paragraph 3.4",
+                    "image4": "URL-to-image-3.4"
+                },
+                {
+                    "title5": "Title 3.4",
+                    "paragraph5": "Paragraph 3.4",
+                    "image5": "URL-to-image-3.4"
+                },
+                {
+                    "title6": "Title 3.4",
+                    "paragraph6": "Paragraph 3.4",
+                    "image6": "URL-to-image-3.4"
+                }
+            ]
+        },
+        {
+            "component": 4,
+                "elements": [
+                {
+                    "image1": "URL-to-image-4.1",
+                    "title1": "Title 4.1",
+                    "paragraph1": "Paragraph 4.1"
+                },
+                {
+                    "title2": "Title 4.2",
+                    "paragraph2": "Paragraph 4.2",
+                    "image2": "URL-to-image-4.2"
+                },
+                {
+                    "title3": "Title 4.3",
+                    "paragraph3": "Paragraph 4.3",
+                    "image3": "URL-to-image-4.3"
+                },
+                {
+                    "title4": "Title 4.4",
+                    "paragraph4": "Paragraph 4.4",
+                    "image4": "URL-to-image-4.4"
+                }
+            ]
+        },
+        {
+            "component": 5,
+                "elements": [
+                {
+                    "title1": "Title 5.1",
+                    "paragraph1": "Paragraph 5.1"
+                
+                },
+                {
+                    "title2": "Title 5.2",
+                    "paragraph2": "Paragraph 5.2"
+                },
+                {
+                    "title3": "Title 5.3",
+                    "paragraph3": "Paragraph 5.3"
+                },
+                {
+                    "title4": "Title 5.4",
+                    "paragraph4": "Paragraph 5.4"
+                }
+            ]
+        },
+        {
+            "component": 6,
+                "elements": [
+                {
+                    "title": "Title 6.1",
+                    "image": "URL-to-image-6.1"
+                },
+                {
+                    "title": "Title 6.2",
+                    "image": "URL-to-image-6.2"
+                },
+                {
+                    "title": "Title 6.3",
+                    "image": "URL-to-image-6.3"
+                }
+            ]
+        }
+    ]
+}

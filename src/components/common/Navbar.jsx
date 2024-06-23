@@ -4,7 +4,7 @@ import styled from "styled-components";
 export const Menu = styled.nav`
     background-color: #fff;
     width: 100%;
-    height: 40px;
+    height: 70px;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -15,7 +15,6 @@ export const Menu = styled.nav`
         list-style: none;
         width: 80%;
         align-items: center;
-        margin-top: 40px;
         & li{
             & button{
                 background-color: #3639AE;

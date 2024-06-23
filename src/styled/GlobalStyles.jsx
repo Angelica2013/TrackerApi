@@ -7,19 +7,17 @@ const GlobalStyle = createGlobalStyle`
 }
 
 body {
-    font-family: sans-serif;
-    margin: 0%;
-    padding: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    background-color:  #171133;
 }
 h1{
-  text-align: center;
   font-size: 40px;
   font-weight: 800;
   line-height: 40px;
   color: #fff;
   }
 p{
-  text-align: center;
   font-size: 20px;
   line-height: 25px;
   color: #fff;
