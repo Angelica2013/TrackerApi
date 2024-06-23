@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 
 
-export const Comp3 = styled.div`
+export const Container3 = styled.div`
     background-color: #fff;
     height: 230px;
     width: 300px;

@@ -1,4 +1,4 @@
-import { Phone } from "./comp2";
+import { Phone } from "./styleComponente2";
 
 
 const Componente2 = ({phones1}) => {

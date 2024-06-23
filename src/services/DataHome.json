@@ -24,13 +24,13 @@
             "component": 2,
                 "elements": [
                 {
-                    "image1": "URL-to-image-2.1"
+                    "image1": "../assets/images/phones.png"
                 },
                 {
-                    "image2": "URL-to-image-2.2"
+                    "image2": "../assets/images/phone-1.png"
                 },
                 {
-                    "image3": "URL-to-image-2.3"
+                    "image3": "../assets/images/phone-1.png"
                 }
             ]
         },
@@ -48,23 +48,23 @@
                     "paragraph2": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest."
                 },
                 {
-                    "title3": "Title 3.3",
-                    "paragraph3": "Paragraph 3.3",
+                    "title3": "Fever",
+                    "paragraph3": "Fever is a key symptom,experts say. Don't fixate on number,but know it's really not a fever until your temperature recahes at least 100",
                     "image3": "URL-to-image-3.3"
                 },
                 {
-                    "title4": "Title 3.4",
-                    "paragraph4": "Paragraph 3.4",
+                    "title4": "Difficulty Breathing",
+                    "paragraph4": "Shortness of breath can be a third and very serious manifestation of Covid-19, and it can occur on its own without a cough",
                     "image4": "URL-to-image-3.4"
                 },
                 {
-                    "title5": "Title 3.4",
-                    "paragraph5": "Paragraph 3.4",
+                    "title5": "Cough",
+                    "paragraph5": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest.",
                     "image5": "URL-to-image-3.4"
                 },
                 {
-                    "title6": "Title 3.4",
-                    "paragraph6": "Paragraph 3.4",
+                    "title6": "Fever",
+                    "paragraph6": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest.",
                     "image6": "URL-to-image-3.4"
                 }
             ]
@@ -73,23 +73,23 @@
             "component": 4,
                 "elements": [
                 {
-                    "image1": "URL-to-image-4.1",
-                    "title1": "Title 4.1",
+                    "image1": "5643",
+                    "title1": "dOWNLOAD",
                     "paragraph1": "Paragraph 4.1"
                 },
                 {
-                    "title2": "Title 4.2",
-                    "paragraph2": "Paragraph 4.2",
+                    "title2": "403",
+                    "paragraph2": "STARTUPS",
                     "image2": "URL-to-image-4.2"
                 },
                 {
-                    "title3": "Title 4.3",
-                    "paragraph3": "Paragraph 4.3",
+                    "title3": "120+",
+                    "paragraph3": "MEMBER",
                     "image3": "URL-to-image-4.3"
                 },
                 {
-                    "title4": "Title 4.4",
-                    "paragraph4": "Paragraph 4.4",
+                    "title4": "22M",
+                    "paragraph4": "REVENUE",
                     "image4": "URL-to-image-4.4"
                 }
             ]
@@ -98,21 +98,21 @@
             "component": 5,
                 "elements": [
                 {
-                    "title1": "Title 5.1",
-                    "paragraph1": "Paragraph 5.1"
+                    "title1": "01 . Unique and bold website design",
+                    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 
                 },
                 {
-                    "title2": "Title 5.2",
-                    "paragraph2": "Paragraph 5.2"
+                    "title2": "02 . We're are ready to start now",
+                    "paragraph2": ""
                 },
                 {
-                    "title3": "Title 5.3",
-                    "paragraph3": "Paragraph 5.3"
+                    "title3": "03. We deliver the highest quality design",
+                    "paragraph3": ""
                 },
                 {
-                    "title4": "Title 5.4",
-                    "paragraph4": "Paragraph 5.4"
+                    "title4": "04. We deliver the highest quality design",
+                    "paragraph4": ""
                 }
             ]
         },
@@ -120,16 +120,16 @@
             "component": 6,
                 "elements": [
                 {
-                    "title": "Title 6.1",
-                    "image": "URL-to-image-6.1"
+                    "title": "Can COVID-19 be caught from a person who has no symptoms?",
+                    "image": "../assets/images/blog-1.jpg"
                 },
                 {
-                    "title": "Title 6.2",
-                    "image": "URL-to-image-6.2"
+                    "title": "What you need to know About Novel Corona Virus Covid 19",
+                    "image": "../assets/images/blog-2.jpg"
                 },
                 {
-                    "title": "Title 6.3",
-                    "image": "URL-to-image-6.3"
+                    "title": "What can I do to protect myself and prevent the spread of disease?",
+                    "image": "../assets/images/blog-3.jpg"
                 }
             ]
         }

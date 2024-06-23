@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 
-export const Container = styled.div`
+export const Container1 = styled.div`
     width: 500px;
     padding: 25px;
     font-family: sans-serif;

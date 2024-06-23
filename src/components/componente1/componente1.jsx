@@ -1,4 +1,4 @@
-import { Container } from "./comp1";
+import { Container1 } from "./styleComponents1";
 
 
 

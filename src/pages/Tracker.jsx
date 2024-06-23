@@ -1,7 +1,7 @@
 const Tracker = () => {
     return (
         <>
-        <h1>Tracker</h1>
+        <h1> Bienvenidos a la pagina donde se renderiza los Tracker</h1>
         </>
     );
 }
