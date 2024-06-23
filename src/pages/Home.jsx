@@ -12,7 +12,9 @@ const Home = () => {
     return (
         <>
             <GlobalStyle />
+
             <ContainerHome1>
+
                 <Componente1
                     titulo="Download the covid app for get latest update"
                     parrafo="Human coronaviruses are common and are typically associated with mild illnesses, similar to the common cold.The corona virus COVID-19 is affecting 210 countries & territories around the world and 2 international conveyances."
@@ -20,6 +22,17 @@ const Home = () => {
                 />
                 <Componente2 phones1={Phones} />
             </ContainerHome1>
+
+            <ContainerHome1>
+            <Componente2 phones1={Phones} />
+                <Componente1
+                    titulo="Download the covid app for get latest update"
+                    parrafo="Human coronaviruses are common and are typically associated with mild illnesses, similar to the common cold.The corona virus COVID-19 is affecting 210 countries & territories around the world and 2 international conveyances."
+                    nomButton="HOW TO PROJECT"
+                />
+                
+            </ContainerHome1>
+
 
             <ContainerHome2>
                 <p>App Feature</p>
