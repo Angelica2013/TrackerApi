@@ -1,8 +1,8 @@
 import GlobalStyle from "../styled/GlobalStyles";
-import Componente1 from "../components/componente1/componente1";
+import Componente1 from "../components/componente1/Componente1";
 import Componente2 from "../components/componente2/Componente2";
-import Card from "../components/componente3/componente3"
-import Componente5 from "../components/componente5/componente5";
+import Componente3 from "../components/componente3/Componente3";
+import Componente5 from "../components/componente5/Componente5";
 import Phones from '../assets/images/phones.png';
 import { Section1,Section1B } from "../styled/styleSections";
 
@@ -38,9 +38,9 @@ const Home = () => {
 
             <Componente3
             url = {icono1}
-            titulo2 = "holas"
+            titulo = "holas"
             parrafo="lorem osandisabndkjsa aheosaijdsa hdosandsa"
-            />
+            /> 
             <>
                 <Componente5
                 />

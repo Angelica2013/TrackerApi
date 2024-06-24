@@ -1,4 +1,4 @@
-
+import styled from "styled-components";
 
 
 const Componente4 = ({imgUrl, titulo2, parrafo2}) => {

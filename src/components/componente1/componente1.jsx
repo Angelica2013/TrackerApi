@@ -7,11 +7,11 @@ const Componente1 = ({titulo, parrafo, nomButton}) => {
 
     return (
         <>
-            <Container>
+            <Container1>
                 <h1>{titulo}</h1>
                 <p>{parrafo}</p>
                 <button>{nomButton}</button>
-            </Container>
+            </Container1>
         </>
     );
 }
