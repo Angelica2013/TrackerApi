@@ -2,15 +2,23 @@ import GlobalStyle from "../styled/GlobalStyles";
 import Componente2 from "../components/componente2/Componente2";
 import Phones from '../assets/images/phones.png';
 import Phone1 from '../assets/images/mobiles.png';
-import { Section1, Section1B, Section3, Section4, Section5, Titulos } from "../styled/styleSections";
+import { Section1, Section6, Section3, Section4, Section5, Titulos, Section7, SectionCarrusel } from "../styled/styleSections";
 import Component1 from "../components/componente1/componente1"
 import icono1 from "../assets/images/icons/covid-orange.svg"
 import Component3 from "../components/componente3/componente3"
 import Component4 from "../components/componente4/component4";
 import Componente5 from "../components/componente5/componente5";
+import PhoneImg from ".././assets/images/phone-1.png"
+import Componente6 from "../components/componente6/componente6";
+import Parrafo1 from "../assets/images/blog-1.jpg"
+import DataHome from "../services/DataHome.json"
+
 
 
 const Home = () => {
+    const componente3Data = DataHome.home.find(item => item.component === 3).elements;
+
+
     return (
         <>
             <GlobalStyle />
@@ -30,13 +38,16 @@ const Home = () => {
                 <h1>Basic Feature You Will Get <br /> When You Use</h1>
             </Titulos>
 
-
-            <Component3
-                url={icono1}
-                titulo="holas"
-                parrafo="lorem osandisabndkjsa aheosaijdsa hdosandsa"
-            />
-
+            <SectionCarrusel>
+                {componente3Data.map((item, index) => (
+                    <Component3
+                        key={index}
+                        url={item.image}
+                        titulo={item.title}
+                        parrafo={item.paragraph}
+                    />
+                ))}
+            </SectionCarrusel>
 
             <Section3>
 
@@ -94,6 +105,38 @@ const Home = () => {
                     titulo="04. We deliver the highest quality design"
                 />
             </Section5>
+
+            <Section6>
+
+
+
+
+                <Component1
+                    titulo="Get the simple app for latest news"
+                    parrafo="Human coronaviruses are common and are typically associated with mild illnesses, similar to the common cold."
+                    nomButton="DOWNLOAD NOW"
+                />
+                <Componente2 phones1={PhoneImg} />
+
+
+            </Section6>
+
+            <Section7>
+
+                <Componente6
+                    imgUrl={Parrafo1}
+                    parrafo="Can COVID-19 be caught from a person who has no symptoms?"
+                />
+                <Componente6
+                    imgUrl={"https://covimap.dexignzone.com/xhtml/images/blog-2.jpg"}
+                    parrafo="What you need to know About Novel Corona Virus Covid 19"
+                />
+                <Componente6
+                    imgUrl="https://covimap.dexignzone.com/xhtml/images/blog-3.jpg"
+                    parrafo="What can I do to protect myself and prevent the spread of disease?"
+                />
+
+            </Section7>
 
         </>
     );

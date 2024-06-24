@@ -33,39 +33,39 @@
                     "image3": "../assets/images/phone-1.png"
                 }
             ]
-        },
+        }, 
         {
             "component": 3,
                 "elements": [
                 {
-                    "title1": "Difficulty Breathing",
-                    "paragraph1": "Shortness of breath can be a third -- and very serious -- manifestation of Covid-19, and it can occur on its own, without a cough. ",
-                    "image1": "URL-to-image-3.1"
+                    "title": "Difficulty Breathing",
+                    "paragraph": "Shortness of breath can be a third -- and very serious -- manifestation of Covid-19, and it can occur on its own, without a cough. ",
+                    "image": "URL-to-image-3.1"
                 },
                 {
-                    "title2": "Cough",
-                    "image2": "URL-to-image-3.2",
-                    "paragraph2": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest."
+                    "title": "Cough",
+                    "image": "URL-to-image-3.2",
+                    "paragraph": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest."
                 },
                 {
-                    "title3": "Fever",
-                    "paragraph3": "Fever is a key symptom,experts say. Don't fixate on number,but know it's really not a fever until your temperature recahes at least 100",
-                    "image3": "URL-to-image-3.3"
+                    "title": "Fever",
+                    "paragraph": "Fever is a key symptom,experts say. Don't fixate on number,but know it's really not a fever until your temperature recahes at least 100",
+                    "image": "URL-to-image-3.3"
                 },
                 {
-                    "title4": "Difficulty Breathing",
-                    "paragraph4": "Shortness of breath can be a third and very serious manifestation of Covid-19, and it can occur on its own without a cough",
-                    "image4": "URL-to-image-3.4"
+                    "title": "Difficulty Breathing",
+                    "paragraph": "Shortness of breath can be a third and very serious manifestation of Covid-19, and it can occur on its own without a cough",
+                    "image": "URL-to-image-3.4"
                 },
                 {
-                    "title5": "Cough",
-                    "paragraph5": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest.",
-                    "image5": "URL-to-image-3.4"
+                    "title": "Cough",
+                    "paragraph": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest.",
+                    "image": "URL-to-image-3.4"
                 },
                 {
-                    "title6": "Fever",
-                    "paragraph6": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest.",
-                    "image6": "URL-to-image-3.4"
+                    "title": "Fever",
+                    "paragraph": "Coughing is another key symptom, but it's not just any cough, said Schaffner. It shoul be a dry cough that you feel in your chest.",
+                    "image": "URL-to-image-3.4"
                 }
             ]
         },
