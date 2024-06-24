@@ -8,7 +8,8 @@ export const Menu = styled.nav`
     align-items: center;
     display: flex;
     justify-content: center;
-
+    position: fixed;
+    box-shadow: 0px 22px 31px -1px #ffffff86;
     & ul{
         display: flex;
         justify-content: space-around;

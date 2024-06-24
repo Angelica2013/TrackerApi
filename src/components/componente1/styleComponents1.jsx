@@ -10,12 +10,13 @@ export const Container1 = styled.div`
         font-weight: 800;
         line-height: 40px;
         color: #fff;
+        line-height: 50px;
     }
     & p{
-        font-size: 16px;
-        line-height: 25px;
+        font-size: 18px;
+        line-height: 20px;
         color: #fff;
-
+        line-height: 30px;
     }
     & button {
         width: 150px;

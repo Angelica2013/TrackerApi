@@ -2,7 +2,7 @@ import { Container1 } from "./styleComponents1";
 
 
 
-const Componente1 = ({titulo, parrafo, nomButton}) => {
+const Component1 = ({ titulo, parrafo, nomButton }) => {
 
 
     return (
@@ -16,4 +16,4 @@ const Componente1 = ({titulo, parrafo, nomButton}) => {
     );
 }
 
-export default Componente1;
+export default Component1;

@@ -1,14 +1,19 @@
-import styled from "styled-components";
+import { Comp4 } from "./styleComponente4";
 
 
-const Componente4 = ({imgUrl, titulo2, parrafo2}) => {
+
+const Component4 = ({ imgUrl, titulo2, parrafo2 }) => {
     return (
         <>
-        <img src={imgUrl} alt="" />
-        <h2>{titulo2}</h2>
-        <p>{parrafo2}</p>
+            <Comp4>
+
+                <img src={imgUrl} alt="" />
+                <h2>{titulo2}</h2>
+                <p>{parrafo2}</p>
+
+            </Comp4>
         </>
     );
 }
 
-export default Componente4;
+export default Component4;

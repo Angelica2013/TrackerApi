@@ -1,7 +1,7 @@
-import { Container3 } from "./comp3";
+import { Container3 } from "./styledComponente3";
 
 
-const Componente3 = ({url, titulo, parrafo}) => {
+const Component3 = ({url, titulo, parrafo}) => {
     return (
         <>
         <Container3>
@@ -13,4 +13,4 @@ const Componente3 = ({url, titulo, parrafo}) => {
     );
 }
 
-export default Componente3;
+export default Component3;
