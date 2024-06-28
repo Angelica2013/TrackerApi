@@ -81,6 +81,7 @@ export const Titulos = styled.div`
 
 export const Section6 = styled.div`
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     height: 450px;
     margin-top: 250px;

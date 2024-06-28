@@ -12,7 +12,7 @@ import PhoneImg from ".././assets/images/phone-1.png"
 import Componente6 from "../components/componente6/componente6";
 import Parrafo1 from "../assets/images/blog-1.jpg"
 import DataHome from "../services/DataHome.json"
-
+import Footer from '../components/common/Footer';
 
 
 const Home = () => {
@@ -107,22 +107,15 @@ const Home = () => {
             </Section5>
 
             <Section6>
-
-
-
-
-                <Component1
+            <Component1
                     titulo="Get the simple app for latest news"
                     parrafo="Human coronaviruses are common and are typically associated with mild illnesses, similar to the common cold."
                     nomButton="DOWNLOAD NOW"
                 />
                 <Componente2 phones1={PhoneImg} />
-
-
             </Section6>
 
             <Section7>
-
                 <Componente6
                     imgUrl={Parrafo1}
                     parrafo="Can COVID-19 be caught from a person who has no symptoms?"
@@ -137,7 +130,7 @@ const Home = () => {
                 />
 
             </Section7>
-
+            <Footer/>
         </>
     );
 }

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { Menu } from '../common/Navbar';
 import Logo from '../../assets/images/logo.png'
-import Footer from '../common/Footer';
+
 
 
 const Layout = ({ children }) => {
@@ -30,7 +30,6 @@ const Layout = ({ children }) => {
 
             <main>{children}</main>
 
-            <Footer/>
         </div>
         
     )

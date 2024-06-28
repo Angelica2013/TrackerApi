@@ -1,4 +1,4 @@
-import { Container5, H3,P } from "./styleComponente5"
+import { Container5, H2,P } from "./styleComponente5"
 
 
 const Componente5 = ({titulo,parrafo}) =>{
@@ -6,7 +6,7 @@ const Componente5 = ({titulo,parrafo}) =>{
         <>
         <Container5>
 
-        <H3>{titulo}</H3>
+        <H2>{titulo}</H2>
         <P>{parrafo}</P>
         
         </Container5>  
